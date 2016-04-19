@@ -1,0 +1,7 @@
+#AdvancedPopup made by KhoaHoang
+# Edit zone:
+Join: [player] joined the game!
+Quit: [player] left the game!
+DeathPopup-Enabled: true
+DeathPopup: [player] was killed!
+#End of the config v1.01
